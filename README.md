@@ -1,2 +1,2 @@
 # project1
-My first github projecvt
+My first github project
